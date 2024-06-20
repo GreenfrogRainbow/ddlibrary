@@ -1,0 +1,9 @@
+
+// eslint-disable-next-line no-undef
+module.exports = {
+    plugins: {
+        'postcss-px-to-viewport': {
+            viewportWidth: 1920
+        }
+    }
+}
